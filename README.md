@@ -9,5 +9,17 @@
 <P>- HTML</P>  
 <P>- CSS</P> 
 <br> 
+ <p>Desktop:</p>
+<img src="https://github.com/andreyy5/Projeto-site-responsivo-1/blob/master/assets/projeto-COMPUTADOR.png?raw=true" alt="imagem-computador"/> 
+<br> 
+<br> 
+<p>Mobile:</p>
+<img src="https://github.com/andreyy5/Projeto-site-responsivo-1/blob/master/assets/projeto-CELULAR.png?raw=true" alt="imagem-celular"/> 
 
+<p>Descrição:</p> 
+<br> 
+<p>Desenvolvi este projeto a fim de estudos, colocando em prática
+    meus conhecimentos em HTML e CSS, e os aprofundando deixando o
+    site responsivo.
+</p>
 
